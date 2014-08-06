@@ -1,5 +1,5 @@
 {
-  "name": "talis-institutions-service",
+  "name": "talis-institutions-angular-service",
   "version": "0.0.1",
   "main": "./js/institutions.service.js",
   "description": "Angular Service for retrieving Institutions information from Talis",
